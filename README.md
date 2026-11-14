@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Vignesh Jitendra</h1>
