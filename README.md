@@ -5,11 +5,16 @@
 <h1 align="center">Hi 👋, I'm Vignesh Jitendra</h1>
 <h3 align="center">Data Engineer</h3>
 
-<img align="right" alt="Data Engineering" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ4b3V6bW5qY2V6N2J3Z3J6bW5qY2V6N2J3Z3J6bW5qY2V6/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+<img align="center"
+     src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+     alt="Data Engineering"
+     height="40"
+     width="40" />
 
 <p align="left"> <img src="" alt="vj-21" /> </p>
 
-- 🔭 I’m currently as **Data Engineer**
+- 🔭 I’m currently working as **Data Engineer**
 
 - 📫 How to reach me **kvvj21@gmail.com**
 
@@ -18,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vignesh-jitendra/" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       src=""
        alt="Vignesh Jitendra - LinkedIn"
        height="30"
        width="40" />
