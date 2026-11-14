@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Vignesh Jitendra</h1>
 <h3 align="center">Data Engineer</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
+
+<img align="right" alt="Data Engineering" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ4b3V6bW5qY2V6N2J3Z3J6bW5qY2V6N2J3Z3J6bW5qY2V6/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <img src="" alt="vj-21" /> </p>
 
@@ -12,7 +13,6 @@
 
 - 📫 How to reach me **kvvj21@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/12NVOo](https://pdf.ac/12NVOo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
