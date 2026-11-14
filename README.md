@@ -3,14 +3,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Vignesh Jitendra</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Data Engineer</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
 
 <p align="left"> <img src="" alt="vj-21" /> </p>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **React,Next.js**
+- 🔭 I’m currently as **Data Engineer**
 
 - 📫 How to reach me **kvvj21@gmail.com**
 
