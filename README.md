@@ -5,7 +5,7 @@
 <h3 align="left">Building scalable data pipelines and transforming raw data into meaningful insights.</h3>
 
 - 🔭 Working on **Data Engineering Projects**
-- 🌱 Learning **Apache Spark, PySpark, Airflow, and Cloud Data Engineering**
+- 🌱  **Apache Spark, PySpark, Airflow, and Cloud Data Engineering**
 - ⚡ Interested in **ETL/ELT Pipelines, Big Data, Data Warehousing, and Analytics**
 - 💡 Passionate about turning raw data into business value.
 
